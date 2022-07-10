@@ -2,7 +2,7 @@ let movieName = document.getElementById("movie-name");
 let btn = document.querySelector(".btn");
 let review = document.querySelector('.review');
 
-key = "http://www.omdbapi.com/?i=tt3896198&apikey=c3e3fbc6";
+key = "https://www.omdbapi.com/?i=tt3896198&apikey=c3e3fbc6";
 
 //Function to fetch data from API 
 
